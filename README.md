@@ -1,0 +1,2 @@
+# nuke
+autosell roket
